@@ -5,7 +5,7 @@ I created two simple bash scripts to keep my IP TV link application server up an
 This is a personal use project but pls feel free to use the scripts for your project as well. 
 
 
-- [What's the story behind the scripts](https://github.com/gonjumixproject/git_basic/blob/main/README.md#git-quick-start )
+- [What's the story behind the scripts](https://github.com/gonjumixproject/Robust_IPTV#whats-the-story-behind-the-scripts)
 - [What is needed to be changed in the scripts](https://github.com/gonjumixproject/git_basic/blob/main/README.md#git-basic-commands)
   * [Change link_check.sh script](https://github.com/gonjumixproject/git_basic/blob/main/README.md#starting-a-project)
   * [Change mysql_backup.sh script](https://github.com/gonjumixproject/git_basic/blob/main/README.md#starting-a-project)
@@ -21,7 +21,7 @@ The DB basicly keeps the IP TV links, and those two bash scripts are created to 
 
 Dont forget to configure your cronjob to run the scripts automaticly.
 
-#What is needed to be changed in the scripts
+# What is needed to be changed in the scripts
 
 If you have a similar configuration, you will need to make some small changes in the scripts.
 
