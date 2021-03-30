@@ -6,10 +6,10 @@ This is a personal use project but pls feel free to use the scripts for your pro
 
 
 - [What's the story behind the scripts](https://github.com/gonjumixproject/Robust_IPTV#whats-the-story-behind-the-scripts)
-- [What is needed to be changed in the scripts](https://github.com/gonjumixproject/git_basic/blob/main/README.md#git-basic-commands)
-  * [Change link_check.sh script](https://github.com/gonjumixproject/git_basic/blob/main/README.md#starting-a-project)
-  * [Change mysql_backup.sh script](https://github.com/gonjumixproject/git_basic/blob/main/README.md#starting-a-project)
-- [ToDo]()
+- [What is needed to be changed in the scripts](https://github.com/gonjumixproject/Robust_IPTV#what-is-needed-to-be-changed-in-the-scriptss)
+  * [Change link_check.sh script](https://github.com/gonjumixproject/Robust_IPTV#change-link_checksh-script)
+  * [Change mysql_backup.sh script](https://github.com/gonjumixproject/Robust_IPTV#change-mysql_backupsh-script)
+- [ToDo](https://github.com/gonjumixproject/Robust_IPTV#todo)
 
 # What's the story behind the scripts
 
