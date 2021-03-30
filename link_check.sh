@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MYSQL_COMMAND=`mysql -u root -D test_tv -e 'SELECT * FROM tbl_channels' > db_link_copy.txt`
+MYSQL_COMMAND=`mysql -u YOURMSQLUSERHERE -D YOURDBNAMEEHERE -e 'SELECT * FROM DBTABLEHERE' > db_link_copy.txt`
 FILENAME="db_link_copy.txt"
 LINKS="only_Links.txt"
 BACKUPFOLDER="/var/backups/link_backups"
